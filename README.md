@@ -4,6 +4,7 @@
 [![Go](https://img.shields.io/badge/Go-v1.18-red)](https://img.shields.io/badge/Go-v1.18-red)
 [![C++](https://img.shields.io/badge/C++-+20-blue)](https://img.shields.io/badge/C++-+20-blue)
 [![Python](https://img.shields.io/badge/Python-3.10-yellow)](https://img.shields.io/badge/Python-3.10-yellow)
+[![Typescript](https://img.shields.io/badge/Typescript-green)](https://img.shields.io/badge/Typescript-green)
 
 
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
