@@ -8,7 +8,7 @@
 
 ### And here are some useful technologies also
 
-[![SQL](https://img.shields.io/badge/SQL-orange)](https://img.shields.io/badge/SQL-orange)
+[![SQL](https://img.shields.io/badge/SQL-violet)](https://img.shields.io/badge/SQL-orange)
 [![Kafka](https://img.shields.io/badge/Kafka-blue)](https://img.shields.io/badge/Kafka-blue)
 [![Docker](https://img.shields.io/badge/Docker-yellow)](https://img.shields.io/badge/Docker-yellow)
 [![Redis](https://img.shields.io/badge/Redis-green)](https://img.shields.io/badge/Redis-green)
