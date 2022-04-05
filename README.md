@@ -3,6 +3,8 @@
 
 [![Go](https://img.shields.io/badge/Go-v1.18-red)](https://img.shields.io/badge/Go-v1.18-red)
 [![C++](https://img.shields.io/badge/C++-+20-blue)](https://img.shields.io/badge/C++-+20-blue)
+[![Python](https://img.shields.io/badge/Python-blue)](https://img.shields.io/badge/Python-blue)
+
 
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
