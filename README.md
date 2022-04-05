@@ -18,7 +18,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tikhonin.tv@phystech.edu)
-[![Telegram](https://img.shields.io/badge/-Telegram-c14438?style=flat&logo=Telegram&logoColor=white)](mailto:tikhonin.tv@phystech.edu)
+[![Telegram](https://img.shields.io/badge/-Telegram-c14438?style=flat&logo=Telegram&logoColor=white)](mailto:@tragger1)
 
 Here are some ideas to get you started:
 
