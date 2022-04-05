@@ -11,7 +11,7 @@
 [![SQL](https://img.shields.io/badge/SQL-violet)](https://img.shields.io/badge/SQL-orange)
 [![Kafka](https://img.shields.io/badge/Kafka-blue)](https://img.shields.io/badge/Kafka-blue)
 [![Docker](https://img.shields.io/badge/Docker-yellow)](https://img.shields.io/badge/Docker-yellow)
-[![Redis](https://img.shields.io/badge/Redis-green)](https://img.shields.io/badge/Redis-green)
+[![Redis](https://img.shields.io/badge/Redis-grey)](https://img.shields.io/badge/Redis-green)
 
 
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
