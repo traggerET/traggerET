@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Tikhon
+
+I am second grade MIPT student.
+Software Developer and Programmer
 
 ### Here are languages I know 
 [![Go](https://img.shields.io/badge/Go-v1.18-red)](https://img.shields.io/badge/Go-v1.18-red)
